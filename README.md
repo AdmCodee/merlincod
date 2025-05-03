@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Merlin's Code !</h1>
+<h1 align="center">👋 Salut, je suis Adm's Code !</h1>
 
 <p align="center">
   🧑‍💻 <b>Développeur Full-Stack | SysAdmin | Créateur d'outils innovants</b>
@@ -92,10 +92,10 @@
 ## 📫 Me contacter
 
 <div align="center">
-  <a href="mailto:merlin@merlincode.fr">
+  <a href="mailto:scamma@scammagroup.com">
     <img src="https://img.shields.io/badge/Email-merlin@merlincode.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://merlincode.fr">
+  <a href="https://scammagroup.com">
     <img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
